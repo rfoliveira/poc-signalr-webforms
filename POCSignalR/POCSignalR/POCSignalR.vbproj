@@ -232,6 +232,7 @@
     <Content Include="Bundle.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App_Code\LogHub.vb" />
     <Compile Include="App_Start\BundleConfig.vb" />
     <Compile Include="App_Start\RouteConfig.vb" />
     <Compile Include="About.aspx.designer.vb">
